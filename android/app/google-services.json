@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516897022321",
+    "project_id": "mchn-text",
+    "storage_bucket": "mchn-text.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516897022321:android:d72a63ed701b9be21316d0",
+        "android_client_info": {
+          "package_name": "com.example.mechine_text"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY6YKs9gnG6_20-XtfEHuoLp0IBgrwPSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
